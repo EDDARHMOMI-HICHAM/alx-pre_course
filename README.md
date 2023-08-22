@@ -1,1 +1,1 @@
-My first readme
+i did update my redme from the interface of githup
